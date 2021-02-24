@@ -14,6 +14,6 @@
 
 ---
 
-![git-logo](./assets/git-config.png)
+![git-config](./assets/git-config.png)
 
 ### [В начало](./readme.md)
