@@ -15,8 +15,12 @@
 
 Так же ваши репозитории можно хранить и в интернете. Обычно для этого используют три сервиса:
 
-[GitHub](https://github.com/)
+1. [GitHub](https://github.com/)
 
-[Bitbucket](https://bitbucket.org/)
+2. [Bitbucket](https://bitbucket.org/)
 
-[GitLab](https://gitlab.com/)
+3. [GitLab](https://gitlab.com/)
+
+---
+
+### [В начало](./readme.md)
